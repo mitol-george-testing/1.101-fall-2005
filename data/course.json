@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Civil Engineering"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "61fab850-8069-6014-ebb0-b7e47b88cb83",
+      "d071a376-00d8-63f1-8e59-c391ce1db14c",
+      "6ed898e4-0ac1-e2ff-7068-fd73360978a0",
+      "9d758c7d-e5bc-ff62-1e53-a5b79f53a921"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Civil and Environmental Engineering Design I",
+  "course_description": "This sophomore-level course is a project-oriented introduction to the principles and practice of engineering design. Design projects and exercises are chosen that relate to the built and natural environments. Emphasis is placed on achieving function and sustainability through choice of materials and processes, compatibility with natural cycles, and the use of active or adaptive systems. The course also encourages development of hands-on skills, teamwork, and communication; exercises and projects engage students in the building, implementation, and testing of their designs.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.101",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
